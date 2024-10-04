@@ -15,3 +15,4 @@ View Responses: The chatbot will provide detailed answers, and the conversation 
 "What are the best tourist spots in Bali?"
 "Tell me about places to visit in Kuala Lumpur."
 "What is the price level of restaurants in Bangkok?"
+"Recommend me the top 5 spas that are open in Jakarta"
